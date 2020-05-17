@@ -124,8 +124,6 @@ debug-backup-05-17-20-21-19-28-1.log.gz
 debug-backup-05-17-20-21-20-58-1.log.gz
 debug-backup-05-17-20-21-22-25-1.log.gz
 dependency-reduced-pom.xml
-pom.xml
-src/
 target/classes/log4j2.properties
 target/generated-sources/
 target/generated-test-sources/
