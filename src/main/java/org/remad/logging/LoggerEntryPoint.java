@@ -11,5 +11,7 @@ public class LoggerEntryPoint {
 
     public void entries() {
         logger.info("now in " + getClass().getCanonicalName());
+        logger.error("now error.");
+        logger.debug("hggxdfghcdft");
     }
 }
