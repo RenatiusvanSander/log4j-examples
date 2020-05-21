@@ -15,5 +15,6 @@ public class Protocol {
         logger.warn("Warning message.");
         logger.info("This message informs.");
         logger.debug("Debug message.");
+        logger.info("This is also chat message");
     }
 }
